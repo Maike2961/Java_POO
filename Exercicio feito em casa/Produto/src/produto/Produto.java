@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author MAYKI PEREIRA DA SILVA RGM 29401305
+ * @author MAYKI PEREIRA DA SILVA
  */
 public class Produto {
 
