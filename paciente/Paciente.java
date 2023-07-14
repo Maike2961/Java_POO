@@ -16,9 +16,9 @@ public class Paciente {
     public static void main(String[] args) {
         dados d = new dados();
         d.nome= "Mayki";
-        d.rg = "50350628-4";
+        d.rg = "5065955-6;
         d.telefone = "568911325";
-        d.endereco = "Rua Geraldo baldes leitão";
+        d.endereco = "Rua Geraldo balder silva";
         
         System.out.println("Nome: "+d.nome);
         System.out.println("RG: "+d.rg);
