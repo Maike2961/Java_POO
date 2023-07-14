@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mayki pereira da silva rgm 29401305
+ * @author mayki pereira da silva
  */
 public class Exercicio4 {
 
