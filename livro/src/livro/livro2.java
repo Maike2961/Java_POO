@@ -7,7 +7,6 @@ package livro;
 /**
  *
  * @author mayki pereira da silva
- * RGM 29401305
  */
 public class livro2 {
     String titulo;
